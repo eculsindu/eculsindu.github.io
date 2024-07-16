@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eculsindu.github.io/sitemap
+Sitemap: https://eculsindu.github.io/app/sitemap
+Sitemap: https://eculsindu.github.io/assets/sitemap
+Sitemap: https://eculsindu.github.io/css/sitemap
+Sitemap: https://eculsindu.github.io/includes/sitemap
+Sitemap: https://eculsindu.github.io/item/sitemap
+Sitemap: https://eculsindu.github.io/src/sitemap
